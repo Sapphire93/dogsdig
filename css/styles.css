@@ -115,15 +115,6 @@ main {
 	border-radius: 8px;
 }
 
-#powder-coated-metal-roof, #asphalt-infused-metal-roof, #asphalt-shingles-roof, #post-and-beam{
-	margin: 0 1%;
-}
-
-.round {
-	border-radius: 8px;
-}
-
-
 .external-link {
 	color: #666600;
 	font-weight: bold;
@@ -186,7 +177,6 @@ footer p a {
 	nav li{
 		border-top: none;
 		display: inline-block;
-		background-color: #dac7be;
 		background: linear-gradient(to left, #dac7be, #fff);		
 		border-right: 1px solid #fff;
 	}
@@ -209,8 +199,8 @@ footer p a {
 		border-top: 1px solid #000;
 		border-bottom: 1px solid #000;
 		float: left;
-		background: linear-gradient(to left, #dac7be, #fff);		
-		background-color: #fff;
+		background: linear-gradient(to right, #dac7be, #fff);		
+		background-color: #e4ffcc;
 		padding: 1% 1%;
 	}
 
@@ -221,9 +211,7 @@ footer p a {
 	#roof-post-beams dd {
 		padding: 0.5% 1% 2% 0;
 	}
-	
-	
-	
+		
 	.tel-num {
 		font-size: 1.25em;
 	}
@@ -266,7 +254,7 @@ footer p a {
 	
 	nav li a:hover {
 		color: #b3ff66;
-		background-color:dac7be 
+		background-color:#4d3019 
 		background: linear-gradient(to left, #dac7be, #4d3019);
 		
 	}
